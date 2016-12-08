@@ -27,8 +27,9 @@ body a:focus, a:hover {
 	text-decoration: none;
 }
 .cc img{
-	width: 120px;
-	height: 120px;
+	margin-left: -18px;
+	width: 93px;
+	height: 77px;
 }
 input[type="button"], input[type="submit"] {
 	transition: 0.5s all;
@@ -912,7 +913,7 @@ figure.effect-bubba:hover h4 {
 }
 /*-- Progress-Bar --*/
 #about-us {
-	padding: 5px;
+	padding: 27px;
 }
 #about-us h2 {
 	margin-top: 0;
